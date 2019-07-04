@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+
+
+/*INTRO*/
+	#intro_wrap { width:100%; height:100%; background:#024417; position:relative; }
+
+	#intro_wrap .name { color:#fff; font-size:60px; font-family:"Noto Serif KR"; top:20%; left:34%; position:absolute; }
+	#intro_wrap .dot { width:100%; height:100%; position:absolute; top:0; left:0;}
+	#intro_wrap .circle { width:100%; height:100%; }
+
+
+/*SIDE NAVIGATION*/
+	button { background:transparent; border:none; }
+
+	.sidenav { height:100%; width:0; position:fixed; z-index:11; top:0; left:0; background:#182e1f; overflow-x:hidden; padding-top:90px; transition:.5s; }
+	.sidenav a { padding:20px 10px 20px 50px; text-decoration:none; font-family:'Playfair Display'; font-size:26px; font-weight:500; color:#b6b6b6; display:block;
+		transition:.3s; font-weight:700; }
+	.sidenav a:hover { color:#fff; }
+
+	.sidenav .closebtn { position:absolute; top:0; right:35px; font-size:55px; font-weight:200; margin-left:50px; color:#fff; }
+
+	.openBtn { position:fixed; top:60px; left:70px; cursor:pointer; z-index:10; }
+	.openBtn img { width:50px; height:40px; }
