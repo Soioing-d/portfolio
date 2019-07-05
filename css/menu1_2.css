@@ -8,7 +8,7 @@
 		font-family:'Noto Sans KR'; color:#fff; }
 	.headCircle { position:absolute; top:41px; left:180px; }
 
-	#header_wrap h1 { font-size:60px; position:absolute; top:80px; left:290px; color:#fff; }
+	#header_wrap h1 { font-size:60px; position:absolute; top:80px; left:290px; color:#fff; font-family:'Playfair Display'; }
 
 /*CONTENT*/
 	#content_wrap { margin-top:40px; }

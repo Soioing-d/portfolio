@@ -7,7 +7,7 @@
 	.headColor span { font-size:20px; font-weight:400; margin:130px 0 0 500px; display:inline-block; font-family:'Noto Sans KR'; }
 	.headCircle { position:absolute; top:41px; left:180px; }
 
-	#header_wrap h1 { font-size:60px; position:absolute; top:80px; left:290px; }
+	#header_wrap h1 { font-size:60px; position:absolute; top:80px; left:290px; font-family:'Playfair Display'; }
 
 /*CONTENT*/
 	#content_wrap { margin-top:40px; }
